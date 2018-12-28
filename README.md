@@ -1,14 +1,14 @@
-##XMRig-docker
+## XMRig-docker
 
 Newest version of Monero miner. Full support Monero PoW algorithm change on October 18.
 
-##Usage
+## Usage
 
 Easy way to start mining:
 
 ```docker run wtbhk/xmrig-docker -o pool -p wallet```
 
-##Options
+## Options
 
 ```
   -a, --algo=ALGO          specify the algorithm to use
